@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    padding: 10px;
+    color: #000000;
+    text-align: center;
+    border-bottom: 5px dotted #000000;
+}
+
+.map {
+    position: relative;
+}
+
+.marker {
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+
+.marker span {
+    background-color: white;
+    font-size: 25px;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 40px;
+    padding: 10px;
+    color: #660303;
+    text-align: center;
+    border-bottom: 5px dotted #a73b49;
+}
+.im {
+    width: 600px;
+    height: 400px;
+}
+h3{
+    font-family: sans-serif;
+     text-align: center;
+       background-color: rgb(255, 189, 211);
+       color:rgb(0, 0, 0);
+}
+
+p {
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(199, 87, 104)
+
+}
